@@ -1,41 +1,40 @@
 {
-  "items": [
-    {
-      "address": "Carrer del País Basc, 07800 Eivissa, Illes Balears",
-      "author": "",
-      "commentsEnabled": true,
-      "commentsPostUrl": "",
-      "commentsUrl": "",
-      "content": "<div class='photo top' style='text-align:center'><a href='https://drive.google.com/uc?id=18uXXjiwmtRD7GCssbsCmipLBsG7FiJUT' target='_blank'><img src='https://drive.google.com/uc?id=18uXXjiwmtRD7GCssbsCmipLBsG7FiJUT' alt='Parque ses Figueretas' title='Parque ses Figueretas' /></a></div><br class='clear' /><div class='texte'><p>Beachfront playground for the mini-kid. With some small and simple artistic structures, such as a tunnel in the shade. Nice for young kids, but also the older ones have fun, because there is much space around it to run around and play football.</p></div><br class='clear' />",
-      "date": "2024-11-08T00:00:00+01:00",
-      "email": "",
-      "id": 4,
-      "images": [
+    "items": [
         {
-          "id": "img-4",
-          "url": "https://drive.google.com/uc?id=18uXXjiwmtRD7GCssbsCmipLBsG7FiJUT"
+            "title": "Parque ses Figueretas",
+            "address": "Carrer del País Basc, 07800 Eivissa, Illes Balears",
+            "latitude": "38.905289",
+            "longitude": "1.423615",
+            "pinIconUrl": "https://example.goodbarber.com/assets/img/gbpreview/mask/map-pin1.png",
+            "pinIconColor": "#e94f06",
+            "pinIconWidth": 150,
+            "pinIconHeight": 300,
+            "thumbnail": "https://drive.google.com/uc?id=18uXXjiwmtRD7GCssbsCmipLBsG7FiJUT",
+            "content": "<div class=\"photo top\" style=\"text-align:center\"><a href=\"https://drive.google.com/uc?id=18uXXjiwmtRD7GCssbsCmipLBsG7FiJUT\" target=\"_blank\"><img src=\"https://drive.google.com/uc?id=18uXXjiwmtRD7GCssbsCmipLBsG7FiJUT\" alt=\"Parque ses Figueretas\" /></a></div><p>Beachfront playground for the mini-kid. With some small and simple artistic structures, such as a tunnel in the shade. Nice for young kids, but also the older ones have fun, because there is much space around it to run around and play football.</p>"
+        },
+        {
+            "title": "Parque Can Planetes",
+            "address": "Rio de Santa Eulària, 07840 Santa Eulària",
+            "latitude": "38.978379",
+            "longitude": "1.529598",
+            "pinIconUrl": "https://example.goodbarber.com/assets/img/gbpreview/mask/map-pin1.png",
+            "pinIconColor": "#e94f06",
+            "pinIconWidth": 150,
+            "pinIconHeight": 300,
+            "thumbnail": "https://drive.google.com/uc?id=1-lwTH7cG_AAx5tD-mJHMM83htzlinBjG",
+            "content": "<div class=\"photo top\" style=\"text-align:center\"><a href=\"https://drive.google.com/uc?id=1-lwTH7cG_AAx5tD-mJHMM83htzlinBjG\" target=\"_blank\"><img src=\"https://drive.google.com/uc?id=1-lwTH7cG_AAx5tD-mJHMM83htzlinBjG\" alt=\"Parque Can Planetes\" /></a></div><p>Cute & simple playground located near the Santa Eulària river, right at the beach, with climbing structures and swings.</p>"
+        },
+        {
+            "title": "Parque Feria de Es Canar",
+            "address": "Avinguda Punta Arabí, Es Canar, 07849 Santa Eulària",
+            "latitude": "39.001605",
+            "longitude": "1.577118",
+            "pinIconUrl": "https://example.goodbarber.com/assets/img/gbpreview/mask/map-pin1.png",
+            "pinIconColor": "#e94f06",
+            "pinIconWidth": 150,
+            "pinIconHeight": 300,
+            "thumbnail": "https://drive.google.com/uc?id=1XLFhP4zsdOZXx73BoIx-WjqcqkfM2lND",
+            "content": "<div class=\"photo top\" style=\"text-align:center\"><a href=\"https://drive.google.com/uc?id=1XLFhP4zsdOZXx73BoIx-WjqcqkfM2lND\" target=\"_blank\"><img src=\"https://drive.google.com/uc?id=1XLFhP4zsdOZXx73BoIx-WjqcqkfM2lND\" alt=\"Parque Feria de Es Canar\" /></a></div><p>This is a mini-amusement park by the beach! With all sorts of rides and trampolines, this place is a kid's dream. Open from May 15th to October 15th, it's the perfect spot for some summer fun.</p>"
         }
-      ],
-      "largeThumbnail": "https://drive.google.com/uc?id=18uXXjiwmtRD7GCssbsCmipLBsG7FiJUT",
-      "latitude": "38.905289",
-      "longitude": "1.423615",
-      "nbcomments": 0,
-      "originalThumbnail": "https://drive.google.com/uc?id=18uXXjiwmtRD7GCssbsCmipLBsG7FiJUT",
-      "phoneNumber": "",
-      "pinIconColor": "#e94f06",
-      "pinIconHeight": 300,
-      "pinIconUrl": "https://example.goodbarber.com/assets/img/gbpreview/mask/map-pin1.png",
-      "pinIconWidth": 150,
-      "smallThumbnail": "https://drive.google.com/uc?id=18uXXjiwmtRD7GCssbsCmipLBsG7FiJUT",
-      "subtype": "custom",
-      "summary": "Beachfront playground for the mini-kid. With some small and simple artistic structures, such as a tunnel in the shade. Nice for young kids, but also the older ones have fun, because there is much space around it to run around and play football.",
-      "thumbnail": "https://drive.google.com/uc?id=18uXXjiwmtRD7GCssbsCmipLBsG7FiJUT",
-      "title": "Parque ses Figueretas",
-      "type": "maps",
-      "url": "",
-      "website": ""
-    },
-    // Additional entries follow...
-  ]
+    ]
 }
-
